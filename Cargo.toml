@@ -1,0 +1,12 @@
+[package]
+name = "week0"
+version = "0.1.0"
+edition = "2024"
+[[bin]]
+name = "scheduler"
+path = "src/scheduler.rs"
+
+[[bin]]
+name = "week3"
+path = "src/week3.rs"
+[dependencies]
